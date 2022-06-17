@@ -1,5 +1,5 @@
 {
-    "name" : "karim/karim",
+    "name" : "karimnewpackage/karimnewpackage",
     "description": "karim first package",
     "type": "project",
     "keywords": ["framework", "karim"],
