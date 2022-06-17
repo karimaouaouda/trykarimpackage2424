@@ -7,11 +7,6 @@
     "require": {
         "php" :  "^8.0.2"
     },
-    "extra": {
-        "karimnewpackage": {
-            "dont-discover": []
-        }
-    },
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "prefer-stable": true
 }
