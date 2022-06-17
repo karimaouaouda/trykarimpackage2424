@@ -1,0 +1,10 @@
+{
+    "name" : "karim/karim",
+    "description": "karim first package",
+    "type": "project",
+    "keywords": ["framework", "karim"],
+    "license": "MIT",
+    "require": {
+        "php" :  "^8.0.2"
+    }
+}
