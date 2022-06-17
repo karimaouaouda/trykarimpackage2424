@@ -5,8 +5,9 @@
     "keywords": ["framework", "karim"],
     "license": "MIT",
     "require": {
-        "php" :  "^8.0.2"
+        "php" :  "^8.0.2",
+        "karimnewpackage/karimnewpackage":"dev-master@dev"
     },
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "prefer-stable": true
 }
